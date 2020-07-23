@@ -3,11 +3,11 @@
 
 <h2 align="center">Hello there! My name is Dominik. 👋🤓</h2>
 <p align='center'>
-<a href="https://dev.to/dopanik"><img height="30" src="assets/dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/dominikpabst"><img height="30" src="assets/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/dopamin.photography"><img height="30" src="assets/instagram.jpg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/dominikpabst/"><img height="30" src="assets/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://www.xing.com/profile/Dominik_Pabst/cv"><img height="30" src="assets/xing.png"></a>
+<a href="https://dev.to/dopanik"><img height="30" src="https://media.githubusercontent.com/media/DoPaNik/DoPaNik/master/assets/dev.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/dominikpabst"><img height="30" src="https://media.githubusercontent.com/media/DoPaNik/DoPaNik/master/assets/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/dopamin.photography"><img height="30" src="https://media.githubusercontent.com/media/DoPaNik/DoPaNik/master/assets/instagram.jpg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/dominikpabst/"><img height="30" src="https://media.githubusercontent.com/media/DoPaNik/DoPaNik/master/assets/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.xing.com/profile/Dominik_Pabst/cv"><img height="30" src="https://media.githubusercontent.com/media/DoPaNik/DoPaNik/master/assets/xing.png"></a>
 </p>
 <hr>
 <p align="justify">I'm a DevOps Engineer, Application Lifecycle Management Consultant, Photographer and Sportsman from Germany.
