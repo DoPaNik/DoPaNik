@@ -1,0 +1,15 @@
+{
+  "name": "@DoPaNik/README",
+  "version": "1.0.0",
+  "description": "My GitHub profile README",
+  "main": "index.js",
+  "repository": "https://github.com/DoPaNik/DoPaNik",
+  "author": "DoPaNik <hi@dopanik.de>",
+  "license": "WTFPL",
+  "private": false,
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "isomorphic-unfetch": "^3.0.0"
+  }
+}
