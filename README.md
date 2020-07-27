@@ -11,10 +11,10 @@
 </p>
 <hr>
 <p align="justify">I'm a DevOps Engineer, Application Lifecycle Management Consultant, Photographer and Sportsman from Germany.
-I help development teams to continuously tweak their Application Lifecycle Management. I advocate versioning everything to always be in control - and get a good night's sleep. My everyday work revolves around <b>DevOps</b> Topics, <b>Automation</b>, <b>CI/CD</b>, <b>Containerization</b>, <b>Infrastructure as Code</b>,  and more than anything:<br> <b style="text-transform:uppercase">collaborating with people!</b> </p>
+I help development teams to continuously tweak their Application Lifecycle Management. I advocate versioning everything to always be in control - and get a good night's sleep. My everyday work revolves around <b>DevOps</b> Topics, <b>Automation</b>, <b>CI/CD</b>, <b>Containerization</b>, <b>Infrastructure as Code</b>,  and more than anything:<br> <br> <b style="text-transform:uppercase;font-size:24px">collaborating with people!</b> </p>
+<br>
+<img src="assets/dopanik.svg" />
 <hr>
-
-
 
 **My Technologie Stack:**  
 
@@ -23,7 +23,9 @@ I help development teams to continuously tweak their Application Lifecycle Manag
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
