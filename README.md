@@ -43,6 +43,8 @@ I help development teams to continuously tweak their Application Lifecycle Manag
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png"></code>
 
+<img src="https://github.com/DoPaNik/DoPaNik/blob/master/assets/dopanik-github.svg" />
+
 <hr>
 
 ![counter](https://enchxzv7t63p4ln.m.pipedream.net) 
