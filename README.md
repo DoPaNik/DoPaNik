@@ -16,7 +16,7 @@ I help development teams to continuously tweak their Application Lifecycle Manag
 
 ### COLLABORATING WITH PEOPLE!
 
-<img src="assets/dopanik.svg" />
+<img src="https://github.com/DoPaNik/DoPaNik/blob/master/assets/dopanik.svg" />
 <hr>
 
 **My Technologie Stack:**  
