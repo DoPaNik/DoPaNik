@@ -11,8 +11,11 @@
 </p>
 <hr>
 <p align="justify">I'm a DevOps Engineer, Application Lifecycle Management Consultant, Photographer and Sportsman from Germany.
-I help development teams to continuously tweak their Application Lifecycle Management. I advocate versioning everything to always be in control - and get a good night's sleep. My everyday work revolves around <b>DevOps</b> Topics, <b>Automation</b>, <b>CI/CD</b>, <b>Containerization</b>, <b>Infrastructure as Code</b>,  and more than anything:<br> <br> <b style="text-transform:uppercase;font-size:24px">collaborating with people!</b> </p>
-<br>
+I help development teams to continuously tweak their Application Lifecycle Management. I advocate versioning everything to always be in control - and get a good night's sleep. My everyday work revolves around <b>DevOps</b> Topics, <b>Automation</b>, <b>CI/CD</b>, <b>Containerization</b>, <b>Infrastructure as Code</b>,  and more than anything:
+</p>
+
+### COLLABORATING WITH PEOPLE!
+
 <img src="assets/dopanik.svg" />
 <hr>
 
